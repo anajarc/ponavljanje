@@ -1,0 +1,7 @@
+kruh,109
+jogurt,153
+sok,144
+makaroni,160
+jajca,132
+salama,123
+mleko,143
